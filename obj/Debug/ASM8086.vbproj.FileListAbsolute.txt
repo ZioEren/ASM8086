@@ -1,0 +1,11 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\bin\Debug\ASM8086.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\bin\Debug\ASM8086.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\bin\Debug\ASM8086.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\bin\Debug\ASM8086.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.ASM8086.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.InfoWindow.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.vbproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\ASM8086\ASM8086\obj\Debug\ASM8086.pdb
